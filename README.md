@@ -5,11 +5,11 @@ Assim, casos confirmados de Dengue pelo critério laboratorial mas com resultado
 Sintaxe do executável:
 
 ~~~
-dengue_inc.exe --blank --soro --ns1 --iso
+dengue_inc.exe blank soro ns1 iso
 
---blank: procura por campos com resultados de exames em branco.
--- soro: sorologia IgM negativo.
--- ns1: exame NS1 negativo.
---iso: isolamento negativo.
+blank: procura por campos com resultados de exames em branco.
+soro: sorologia IgM negativo.
+ns1: exame NS1 negativo.
+iso: isolamento negativo.
 
 ~~~
