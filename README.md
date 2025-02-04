@@ -22,5 +22,5 @@ iso: procura por casos confirmados de Dengue pelo critério laboratorial mas com
 rtpcr: procura por casos confirmados de Dengue pelo critério laboratorial mas com resultado de exame RT-PCR negativo e os demais campos com resultados de exames não positivos ou em branco.
 
 ~~~
-![x](/exames.jpg)  
+![x](/dengue_inc.jpg)  
 
