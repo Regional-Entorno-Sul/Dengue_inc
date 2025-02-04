@@ -13,7 +13,7 @@ são detectados e totalizados em um arquivo para que, posteriormente, os casos s
 Sintaxe do executável:
 
 ~~~
-dengue_inc.exe blank soro ns1 iso rtpcr
+dengue_inc.exe [blank] [soro] [ns1] [iso] [rtpcr]
 
 blank: procura por casos confirmados de Dengue pelo critério laboratorial mas com os campos com resultados de exames em branco.
 soro: procura por casos confirmados de Dengue pelo critério laboratorial mas com resultado de sorologia IgM negativo e os demais campos com resultados de exames não positivos ou em branco.
