@@ -2,7 +2,7 @@
 Dengue_inc procura por inconsistências em arquivos de Dengue exportados do SINAN Online.  
 Assim, casos confirmados de Dengue pelo critério laboratorial  
 
-
+![x](/criterio.jpg)
 
 
 
