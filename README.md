@@ -34,6 +34,11 @@ O usuário usou um argumento inválido na linha de comando ao rodar o executáve
 **Erro 003**  
 No subdiretório "zip", é onde o usuário deve deixar o arquivo exportado do SINAN Online para o programa processar. É permitido apenas um arquivo no formato zip dentro desse subdiretório. Se for encontrado mais de um, ocorre um erro.
 
+**Erro 004**  
+Esse erro ocorre quando no subdiretório "zip", nenhum arquivo exportado do SINAN Online no formato zip é encontrado.
+
+
+
 
 
 
