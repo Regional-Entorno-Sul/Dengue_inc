@@ -46,7 +46,7 @@ Esse erro ocorre quando o subdiretório "zip" não é encontrado na estrutura de
 **Erro 007**  
 Esse erro ocorre quando o subdiretório "run" não é encontrado na estrutura de pastas e subpastas do programa (c:\dengue_inc\run).
 
-
+![x](/erro7.jpg)  
 
 
 
