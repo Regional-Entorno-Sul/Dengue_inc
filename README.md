@@ -22,5 +22,27 @@ iso: procura por casos confirmados de Dengue pelo critério laboratorial mas com
 rtpcr: procura por casos confirmados de Dengue pelo critério laboratorial mas com resultado de exame RT-PCR negativo e os demais campos com resultados de exames não positivos ou em branco.
 
 ~~~
+
+## Possiveis erros durante a execução  
+
+Erro 001
+O usuário não usou nenhum argumento na linha de comando para rodar o executável.
+
+Erro 002
+O usuário usou um argumento inválido na linha de comando ao rodar o executável.
+
+Erro 003
+No subdiretório "zip", é onde o usuário deve deixar o arquivo exportado do SINAN Online para o programa processar. É permitido apenas um arquivo no formato zip dentro desse subdiretório. Se for encontrado mais de um, ocorre um erro.
+
+
+
+
+
+
+
+
+
+
+
 ![x](/dengue_inc.jpg)  
 
