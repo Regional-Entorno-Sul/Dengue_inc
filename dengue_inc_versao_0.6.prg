@@ -14,6 +14,33 @@ set color to g+/
 
 set color to gr+/
 
+if HB_DirExists("c:\dengue_inc") = .F.
+set color to r+/
+? "Erro 005!"
+? "Diretorio principal (c:\dengue_inc) nao encontrado."
+? "Fim do programa."
+set color to gr+/
+quit
+endif
+
+if HB_DirExists("c:\dengue_inc\zip") = .F.
+set color to r+/
+? "Erro 006!"
+? "Subdiretorio 'zip' (c:\dengue_inc\zip) nao encontrado."
+? "Fim do programa."
+set color to gr+/
+quit
+endif
+
+if HB_DirExists("c:\dengue_inc\run") = .F.
+set color to r+/
+? "Erro 007!"
+? "Subdiretorio 'run' (c:\dengue_inc\run) nao encontrado."
+? "Fim do programa."
+set color to gr+/
+quit
+endif
+
 cMode := alltrim( HB_Argv( 1 ) )
 
 if empty( cMode ) = .T.
@@ -105,7 +132,7 @@ rename ( "c:\dengue_inc\zip\" + aName2[1] ) to ("c:\dengue_inc\zip\dengon.dbf")
 copy file "c:\dengue_inc\zip\dengon.dbf" to "c:\dengue_inc\run\dengon.dbf"
 
 if cMode = "blank"
-@ 13,0 say "Argumento usado:blank"
+@ 13,0 say "Argumento usado:blank" color "g+/"
 
 use "c:\dengue_inc\run\dengon.dbf"
 do while .not. eof()
@@ -119,7 +146,7 @@ close
 endif
 
 if cMode = "soro"
-@ 13,0 say "Argumento usado:soro"
+@ 13,0 say "Argumento usado:soro" color "g+/"
 
 use "c:\dengue_inc\run\dengon.dbf"
 do while .not. eof()
@@ -133,7 +160,7 @@ close
 endif
 
 if cMode = "ns1"
-@ 13,0 say "Argumento usado:ns1"
+@ 13,0 say "Argumento usado:ns1" color "g+/"
 
 use "c:\dengue_inc\run\dengon.dbf"
 do while .not. eof()
@@ -147,7 +174,7 @@ close
 endif
 
 if cMode = "iso"
-@ 13,0 say "Argumento usado:iso"
+@ 13,0 say "Argumento usado:iso" color "g+/"
 
 use "c:\dengue_inc\run\dengon.dbf"
 do while .not. eof()
@@ -161,7 +188,7 @@ close
 endif
 
 if cMode = "rtpcr"
-@ 13,0 say "Argumento usado:rtpcr"
+@ 13,0 say "Argumento usado:rtpcr" color "g+/"
 
 use "c:\dengue_inc\run\dengon.dbf"
 do while .not. eof()
