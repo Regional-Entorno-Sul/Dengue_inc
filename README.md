@@ -35,7 +35,7 @@ O usuário usou um argumento inválido na linha de comando ao rodar o executáve
 No subdiretório "zip", é onde o usuário deve deixar o arquivo exportado do SINAN Online para o programa processar. É permitido apenas um arquivo no formato zip dentro desse subdiretório. Se for encontrado mais de um, ocorre um erro.
 
 **Erro 004**  
-Esse erro ocorre quando no subdiretório "zip", nenhum arquivo exportado do SINAN Online no formato zip é encontrado.
+Esse erro ocorre quando no subdiretório "zip", não é encontrado nenhum arquivo exportado do SINAN Online no formato zip.
 
 **Erro 005**  
 Esse erro ocorre quando não é encontrado no disco local C ou unidade local C, o diretório principal do programa (c:\dengue_inc).
