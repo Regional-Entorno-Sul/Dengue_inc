@@ -15,7 +15,7 @@ Sintaxe do executável:
 ~~~
 dengue_inc.exe --mun [codigo IBGE do municipio de residencia] [blank] [soro] [ns1] [iso] [rtpcr]
 
---mun [codigo IBGE do municipio de residencia]: procura por dados específicos do município de residência, este deve ser especificado com o código do IBGE com seis dígitos.
+--mun [codigo IBGE do municipio de residencia]: procura por dados específicos do município de residência, este deve ser especificado com o código do IBGE com seis dígitos. Se este argumento não for usado, o programa procura por inconsistência em toda a base de dados, seja qual for o município de residência.
 blank: procura por casos confirmados de Dengue pelo critério laboratorial mas com os campos com resultados de exames em branco.
 soro: procura por casos confirmados de Dengue pelo critério laboratorial mas com resultado de sorologia IgM negativo e os demais campos com resultados de exames não positivos ou em branco.
 ns1: procura por casos confirmados de Dengue pelo critério laboratorial mas com resultado de exame NS1 negativo e os demais campos com resultados de exames não positivos ou em branco.
