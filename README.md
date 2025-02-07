@@ -68,6 +68,17 @@ Solução: Fazer o download do último release do programa e seguir as instruç�
 O arquivo "deng_model.dbf" necessário ao bom funcionamento do programa não foi encontrado no subdiretório 'mod'.  
 Solução: Fazer o download do último release do programa e seguir as instruções de como usá-lo no PC.
 
+**Erro 011**  
+Argumento --mun sem o código do município.  
+Solução: Quando o usuário opta por usar o argumento --mun na linha de comando, o código IBGE do município se torna obrigatório.
+
+**Erro 012**
+
+
+
+
+
+
 ![x](/erro_7.jpg)  
   
 ![x](/dengue_inc.jpg)  
