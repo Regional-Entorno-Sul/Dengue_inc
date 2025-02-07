@@ -52,11 +52,10 @@ Esse erro ocorre quando o subdiretório "mod" não é encontrado na estrutura de
 **Erro 009**  
 Esse erro ocorre quando o subdiretório "out" não é encontrado na estrutura de pastas e subpastas do programa (c:\dengue_inc\out).
 
+**Erro 010**  
+O arquivo "deng_model.dbf" necessário ao bom funcionamento do programa não foi encontrado no subdiretório 'mod'.
+
 ![x](/erro_7.jpg)  
-
-
-
-
-
+  
 ![x](/dengue_inc.jpg)  
 
