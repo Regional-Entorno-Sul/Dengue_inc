@@ -83,7 +83,7 @@ Solução: O usuário deve especificar um código IBGE do município de residên
 **Erro 014**
 Código do município de residência usado no argumento --mun não é um número.  
 Solução: O usuário deve especificar um código IBGE do município com seis dígitos e contendo apenas números.  
-
+  
 
 ![x](/erro_7.jpg)  
   
