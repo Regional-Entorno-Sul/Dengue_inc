@@ -38,7 +38,7 @@ No subdiretório "zip", é onde o usuário deve deixar o arquivo exportado do SI
 Solução: excluir os arquivos que estão em excesso, deixando preferencialmente o que estiver mais atualizados com os dados exportados do SINAN Online.
 
 **Erro 004**  
-Esse erro ocorre quando no subdiretório "zip", não é encontrado nenhum arquivo exportado do SINAN Online no formato zip.
+Esse erro ocorre quando no subdiretório "zip", não é encontrado nenhum arquivo exportado do SINAN Online no formato zip.  
 Soluçao: o programa precisa de dados para funcionar. Esses dados vêm em um arquivo de exportação do SINAN Online. Basta gerar o arquivo de exportação nesta aplicação web (http://sinan.saude.gov.br/sinan/login/login.jsf), fazer o download do arquivo e copiá-lo para o subdiretório 'zip' que fica dentro da estrutura de pastas e subpastas do 'Dengue_inc'. Não é necessário descompactar o arquivo, o programa já faz isso automaticamante.
 
 **Erro 005**  
