@@ -70,11 +70,11 @@ Solução: Fazer o download do último release do programa e seguir as instruç�
 
 **Erro 011**  
 Argumento --mun sem o código do município.  
-Solução: Quando o usuário opta por usar o argumento --mun na linha de comando, o código IBGE do município se torna obrigatório.
+Solução: Quando o usuário opta por usar o argumento --mun na linha de comando, o código IBGE do município se torna obrigatório. Basta inserir após o argumento --mun o código do município de residência.
 
 **Erro 012**
-
-
+Código do município não pode ter mais de seis dígitos.
+Solução: O ccódigo usado pelo programa para o processamento 
 
 
 
