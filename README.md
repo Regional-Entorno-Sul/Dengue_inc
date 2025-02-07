@@ -46,6 +46,12 @@ Esse erro ocorre quando o subdiretório "zip" não é encontrado na estrutura de
 **Erro 007**  
 Esse erro ocorre quando o subdiretório "run" não é encontrado na estrutura de pastas e subpastas do programa (c:\dengue_inc\run).
 
+**Erro 008**  
+Esse erro ocorre quando o subdiretório "mod" não é encontrado na estrutura de pastas e subpastas do programa (c:\dengue_inc\mod).
+
+**Erro 009**  
+Esse erro ocorre quando o subdiretório "out" não é encontrado na estrutura de pastas e subpastas do programa (c:\dengue_inc\out).
+
 ![x](/erro_7.jpg)  
 
 
