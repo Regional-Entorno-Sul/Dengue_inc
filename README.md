@@ -80,7 +80,7 @@ Solução: O usuário deve especificar um código IBGE do município de residên
 Código do município não pode ter menos de seis dígitos.  
 Solução: O usuário deve especificar um código IBGE do município de residência com exatos seis dígitos.
 
-**Erro 013**
+**Erro 014**
 Código do município de residência usado no argumento --mun não é um número.  
 Solução: O usuário deve especificar um código IBGE do município com seis dígitos e contendo apenas números.  
 
