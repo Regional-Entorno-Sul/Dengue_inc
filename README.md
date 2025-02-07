@@ -26,7 +26,7 @@ rtpcr: procura por casos confirmados de Dengue pelo critério laboratorial mas c
 ## Possiveis erros durante a execução  
 
 **Erro 001**  
-O usuário não usou nenhum argumento na linha de comando para rodar o executável.
+O usuário não usou nenhum argumento na linha de comando para rodar o executável.  
 Solução: usar na linha de comando algum dos argumentos obrigatórios para rodar o programa. Os argumentos válidos estão descritos em 'sintaxe do executável' no README deste repositório.
 
 **Erro 002**  
