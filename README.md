@@ -73,8 +73,13 @@ Argumento --mun sem o código do município.
 Solução: Quando o usuário opta por usar o argumento --mun na linha de comando, o código IBGE do município se torna obrigatório. Basta inserir após o argumento --mun o código do município de residência.
 
 **Erro 012**
-Código do município não pode ter mais de seis dígitos.
-Solução: O ccódigo usado pelo programa para o processamento 
+Código do município não pode ter mais de seis dígitos.  
+Solução: O código IBGE do município de residência usado pelo programa não pode ter mais do que seis dígitos.
+
+**Erro 013**
+Código do município não pode ter mais de seis dígitos.  
+Solução: O código IBGE do município de residência usado pelo programa não pode ter mais do que seis dígitos.
+
 
 
 
