@@ -1,5 +1,5 @@
 # Dengue_inc 
-Dengue_inc procura por inconsistências em arquivos de Dengue exportados do SINAN Online.  
+Dengue_inc é um utilitário de código abero que procura por inconsistências em arquivos de Dengue exportados do SINAN Online.  
 Assim, casos confirmados de Dengue pelo critério laboratorial  
 
 ![x](/criterio.jpg)  
@@ -42,22 +42,28 @@ Esse erro ocorre quando no subdiretório "zip", não é encontrado nenhum arquiv
 Soluçao: o programa precisa de dados para funcionar. Esses dados vêm em um arquivo de exportação do SINAN Online. Basta gerar o arquivo de exportação nesta aplicação web (http://sinan.saude.gov.br/sinan/login/login.jsf), fazer o download do arquivo e copiá-lo para o subdiretório 'zip' que fica dentro da estrutura de pastas e subpastas do 'Dengue_inc'. Não é necessário descompactar o arquivo, o programa já faz isso automaticamante.
 
 **Erro 005**  
-Esse erro ocorre quando não é encontrado no disco local C ou unidade local C, o diretório principal do programa (c:\dengue_inc).
+Esse erro ocorre quando não é encontrado no disco local C ou unidade local C, o diretório principal do programa (c:\dengue_inc).  
+Solução: Fazer o download do último release do programa e seguir as instruções de como usá-lo no PC.
 
 **Erro 006**  
-Esse erro ocorre quando o subdiretório "zip" não é encontrado na estrutura de pastas e subpastas do programa (c:\dengue_inc\zip).
+Esse erro ocorre quando o subdiretório "zip" não é encontrado na estrutura de pastas e subpastas do programa (c:\dengue_inc\zip).  
+Solução: Fazer o download do último release do programa e seguir as instruções de como usá-lo no PC.
 
 **Erro 007**  
-Esse erro ocorre quando o subdiretório "run" não é encontrado na estrutura de pastas e subpastas do programa (c:\dengue_inc\run).
+Esse erro ocorre quando o subdiretório "run" não é encontrado na estrutura de pastas e subpastas do programa (c:\dengue_inc\run).  
+Solução: Fazer o download do último release do programa e seguir as instruções de como usá-lo no PC.
 
 **Erro 008**  
-Esse erro ocorre quando o subdiretório "mod" não é encontrado na estrutura de pastas e subpastas do programa (c:\dengue_inc\mod).
+Esse erro ocorre quando o subdiretório "mod" não é encontrado na estrutura de pastas e subpastas do programa (c:\dengue_inc\mod).  
+Solução: Fazer o download do último release do programa e seguir as instruções de como usá-lo no PC.
 
 **Erro 009**  
-Esse erro ocorre quando o subdiretório "out" não é encontrado na estrutura de pastas e subpastas do programa (c:\dengue_inc\out).
+Esse erro ocorre quando o subdiretório "out" não é encontrado na estrutura de pastas e subpastas do programa (c:\dengue_inc\out).  
+Solução: Fazer o download do último release do programa e seguir as instruções de como usá-lo no PC.
 
 **Erro 010**  
-O arquivo "deng_model.dbf" necessário ao bom funcionamento do programa não foi encontrado no subdiretório 'mod'.
+O arquivo "deng_model.dbf" necessário ao bom funcionamento do programa não foi encontrado no subdiretório 'mod'.  
+Solução: Fazer o download do último release do programa e seguir as instruções de como usá-lo no PC.
 
 ![x](/erro_7.jpg)  
   
