@@ -72,18 +72,22 @@ Solução: Fazer o download do último release do programa e seguir as instruç�
 Argumento --mun sem o código do município.  
 Solução: Quando o usuário opta por usar o argumento --mun na linha de comando, o código IBGE do município se torna obrigatório. Basta inserir após o argumento --mun o código do município de residência.
 
-**Erro 012**
+**Erro 012**  
 Código do município não pode ter mais de seis dígitos.  
 Solução: O usuário deve especificar um código IBGE do município de residência com exatos seis dígitos.
 
-**Erro 013**
+**Erro 013**  
 Código do município não pode ter menos de seis dígitos.  
 Solução: O usuário deve especificar um código IBGE do município de residência com exatos seis dígitos.
 
-**Erro 014**
+**Erro 014**  
 Código do município de residência usado no argumento --mun não é um número.  
 Solução: O usuário deve especificar um código IBGE do município com seis dígitos e contendo apenas números.  
-  
+
+**Erro 015**  
+Falta argumento do tipo de exame.  
+Solução: O usuário deve especificar um código IBGE do município com seis dígitos e contendo apenas números.  
+
 
 ![x](/erro_7.jpg)  
   
