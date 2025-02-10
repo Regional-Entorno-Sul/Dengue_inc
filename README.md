@@ -86,7 +86,7 @@ Solução: O usuário deve especificar um código IBGE do município com seis d�
 
 **Erro 015**  
 Falta argumento do tipo de exame.  
-Solução: O usuário deve especificar um código IBGE do município com seis dígitos e contendo apenas números.  
+Solução: consultar no README deste repositório, a 'sintaxe do executável' e verificar os argumentos válidos para executar o progrma.
 
 
 ![x](/erro_7.jpg)  
