@@ -87,8 +87,8 @@ Solução: O usuário deve especificar um código IBGE do município com seis d�
 **Erro 015**  
 Falta argumento do tipo de exame.  
 Solução: O usuário, após digitar na linha de comando o argumento --mun e o código do município, deve também incluir algum dos outros argumentos válidos para executar o progrma. Os argumentos válidos estão descritos em 'sintaxe do executável' no README deste repositório.  
-
-
+  
+  
 ![x](/erro_7.jpg)  
   
 ![x](/dengue_inc.jpg)  
