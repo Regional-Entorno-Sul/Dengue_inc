@@ -106,6 +106,4 @@ Solução: O usuário, após digitar na linha de comando o argumento --mun e o c
   
   
 ![x](/erro_7.jpg)  
-  
-![x](/dengue_inc.jpg)  
 
