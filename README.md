@@ -34,7 +34,7 @@ Exemplo: dengue_inc.exe rtpcr
 
 3. E salve a pasta resultante da descompactação no disco local C ou unidade local C do PC;  
 
-![x](/erro_7.jpg)  
+![x](/structure.jpg)  
 
 
 
