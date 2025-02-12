@@ -28,9 +28,9 @@ Exemplo: dengue_inc.exe rtpcr
 
 ## Como usar?
 
-Faça o download do programa na área de release deste repositório.  
+1. Faça o download do programa na área de release deste repositório;  
 
-
+2. Descompacte o arquivo baixado usando um descompactador da sua preferência;  
 
 
 
