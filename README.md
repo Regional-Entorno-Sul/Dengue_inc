@@ -38,7 +38,7 @@ Exemplo: dengue_inc.exe rtpcr
 
 4. Após gerar o arquivo de exportação com os dados de Dengue no SINAN Online, copie e cole o arquivo exportado dentro da subpasta "zip". Não é necessário descompactar o arquivo;
 
-5. Depois rode o executável que está na subpasta "bin" 
+5. Depois rode o executável que está na subpasta "bin" usando o prompt de comando 
 
 
 
