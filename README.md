@@ -32,7 +32,7 @@ Exemplo: dengue_inc.exe rtpcr
 
 2. Descompacte o arquivo baixado usando um descompactador da sua preferência;  
 
-
+3. E salve a pasta resultante da descompactação 
 
 
 
