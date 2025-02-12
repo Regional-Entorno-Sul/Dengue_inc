@@ -40,14 +40,7 @@ Exemplo: dengue_inc.exe rtpcr
 
 5. Depois rode o executável que está na subpasta "bin" usando o prompt de comando;  
 
-
-
-
-
-
-
-
-
+![x](/dengue_inc.jpg)  
 
 ## Possiveis erros durante a execução  
 
