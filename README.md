@@ -1,5 +1,5 @@
 # Dengue_inc 
-Dengue_inc é um utilitário de código abero que procura por inconsistências em arquivos de Dengue exportados do SINAN Online.  
+Dengue_inc é um utilitário de código aberto que procura por inconsistências em arquivos de Dengue exportados do SINAN Online.  
 Assim, casos confirmados de Dengue pelo critério laboratorial  
 
 ![x](/criterio.jpg)  
