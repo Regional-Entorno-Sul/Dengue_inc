@@ -26,6 +26,28 @@ Exemplo: dengue_inc.exe rtpcr
 
 ~~~
 
+## Como usar?
+
+Faça o download do programa na área de release deste repositório.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Possiveis erros durante a execução  
 
 **Erro 001**  
