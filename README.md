@@ -28,11 +28,11 @@ Exemplo: dengue_inc.exe rtpcr
 
 ## Como usar?
 
-1. Faça o download do programa na área de release deste repositório;  
+1. Faça o download do programa na área de release deste repositório (use sempre a versão mais recente);  
 
 2. Descompacte o arquivo baixado usando um descompactador da sua preferência;  
 
-3. E salve a pasta resultante da descompactação 
+3. E salve a pasta resultante da descompactação no disco local C ou unidade local C do PC;  
 
 
 
