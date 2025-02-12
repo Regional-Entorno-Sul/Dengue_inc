@@ -36,7 +36,7 @@ Exemplo: dengue_inc.exe rtpcr
 
 ![x](/structure.jpg)  
 
-4. Após gerar o arquivo de exportação com os dados de Dengue no SINAN Online, copie e cole o arquivo exportado na subpasta "zip";
+4. Após gerar o arquivo de exportação com os dados de Dengue no SINAN Online, copie e cole o arquivo exportado dentro da subpasta "zip";
 
 
 
