@@ -5,7 +5,7 @@ Assim, casos confirmados de Dengue pelo critério laboratorial
 ![x](/criterio.jpg)  
 
 mas com resultados negativos ou em branco nos campos de exames como o IgM, NS1, isolamento viral e o RT-PCR.  
-A partir da versão 1.0, os resultados também inclui a histopatologia e a imunohistoquimica.  
+A partir da versão 1.0, os resultados também incluem a histopatologia e a imunohistoquimica.  
 
 ![x](/exames.jpg)  
 
