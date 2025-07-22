@@ -26,7 +26,7 @@ rtpcr: procura por casos confirmados de Dengue pelo critério laboratorial mas c
 Exemplo: dengue_inc.exe rtpcr
 
 ~~~
-**Observação:** a partir da versão 1.0, o programa não utiluza mais sintaxes na linha de comando, pois procura os resultados de exames com inconsistência automaticamente.  
+**Observação:** a partir da versão 1.0, o programa não utiliza mais sintaxes na linha de comando, pois procura os resultados de exames com inconsistência automaticamente.  
 
 ## Como usar?
 
